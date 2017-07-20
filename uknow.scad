@@ -7,12 +7,6 @@ module hole( size, pos=[0, 0, 0] ){
   }
 }
 
-
-
-
-
-
-
 //  create a board with holes
 //  -------------------------
 //
